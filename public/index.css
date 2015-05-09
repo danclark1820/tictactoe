@@ -1,62 +1,64 @@
 .square {
-  height: 5em;
-  width: 5em;
-  margin: 1em;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
   background-color: #66FF66;
   border-style: solid;
-  border-width: .5em;
+  border-width: 5px;
+  text-align: center;
+  font-size: 45px;
 }
 
 #one {
   position: absolute;
-  top: 10em;
-  left: 10em;
+  top: 100px;
+  left: 100px;
 }
 
 #two {
   position: absolute;
-  top: 10em;
-  left: 17em;
+  top: 100px;
+  left: 170px;
 }
 
 #three {
   position: absolute;
-  top: 10em;
-  left: 24em;
+  top: 100px;
+  left: 240px;
 }
 
 #four {
   position: absolute;
-  top: 17em;
-  left: 10em;
+  top: 170px;
+  left: 100px;
 }
 
 #five {
   position: absolute;
-  top: 17em;
-  left: 17em;
+  top: 170px;
+  left: 170px;
 }
 
 #six {
   position: absolute;
-  top: 17em;
-  left: 24em;
+  top: 170px;
+  left: 240px;
 }
 
 #seven {
   position: absolute;
-  top: 24em;
-  left: 10em;
+  top: 240px;
+  left: 100px;
 }
 
 #eight {
   position: absolute;
-  top: 24em;
-  left: 17em;
+  top: 240px;
+  left: 170px;
 }
 
 #nine {
   position: absolute;
-  top: 24em;
-  left: 24em;
+  top: 240px;
+  left: 240px;
 }
